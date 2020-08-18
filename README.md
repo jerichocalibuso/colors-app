@@ -1,3 +1,15 @@
+## Technologies Used
+
+- Material UI
+- Chroma.js
+- Emoji Mart
+- React Sortable HOC
+- React Copy-to-Clipboard
+- React PureComponent
+- React Form Validator
+- React Transition Group
+- JSS
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
